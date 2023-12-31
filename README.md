@@ -23,7 +23,7 @@ Key Findings
 
 -   Year of Manufacture: The 'year' of the car emerged as the most significant predictor of its price. Newer models tend to fetch higher prices.
 -   Mileage: The 'odometer' reading significantly impacts the price, with higher mileage correlating with lower prices.
--   Fuel Type and Car Type: Specific categories like 'fuel_diesel', 'type_pickup', and 'type_sedan' were notable influencers, suggesting preferences for certain fuel types and car models.
+-   Fuel Type and Car Type: Specific categories like 'diesel', 'pickup', and 'sedan' were notable influencers, suggesting preferences for certain fuel types and car models.
 
 ### 2\. **Model Performance**
 
