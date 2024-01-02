@@ -9,7 +9,7 @@ Executive Summary
 
 This report presents the findings from a comprehensive data analysis aimed at understanding the key factors influencing used car prices. Utilizing advanced data analysis techniques, including Linear Regression and Random Forest Regression models, our goal was to identify attributes that significantly impact the value of used cars. This information is intended to assist used car dealerships in optimizing their inventory and pricing strategies.
 
-[The Project Notebook](prompt_II.ipynb)
+[The Project Notebook](used_car_prices.ipynb)
 
 Data Overview
 -------------
